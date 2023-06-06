@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rebecca Bellan",
+            "title": "Elon Musk says Tesla might 'open source more code' to other automakers",
+            "description": "Elon Musk suggested during a Twitter Spaces with Ford CEO Jim Farley that Tesla might offer its automotive operating system to others.",
+            "url": "https://techcrunch.com/2023/05/25/elon-musk-says-tesla-might-open-source-more-code-to-other-automakers/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1239960989.jpg?resize=1200,675",
+            "publishedAt": "2023-05-25T23:23:58Z",
+            "content": "Elon Musk suggested Thursday during a Twitter Spaces with Ford CEO Jim Farley that Tesla might open up some of its automotive operating system code to other automakers. \r\nIn the same way that maybe A… [+3459 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kirsten Korosec and Rebecca Bellan",
+            "title": "Ford to bring Tesla's charging tech into its future EVs",
+            "description": "Ford has reached an agreement with rival Tesla that will give owners of Ford’s EVs access to more than 12,000 Superchargers across the U.S. and Canada. The deal was announced during a Twitter Spaces between Tesla and Twitter CEO Elon Musk and Ford CEO Jim Far…",
+            "url": "https://techcrunch.com/2023/05/25/ford-to-bring-teslas-charging-tech-into-its-future-evs/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/farley-ford-musk-tesla-1.jpg?resize=1200,675",
+            "publishedAt": "2023-05-25T21:49:43Z",
+            "content": "Ford has reached an agreement with rival Tesla that will give owners of Ford’s EVs access to more than 12,000 Superchargers across the U.S. and Canada. The deal was announced during a Twitter Spaces … [+1931 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rebecca Bellan",
+            "title": "Applied Intuition to buy autonomous trucking SPAC Embark for $71M",
+            "description": "After laying off 70% of staff, Embark Trucks is selling its autonomous trucking company to Applied Intuition.",
+            "url": "https://techcrunch.com/2023/05/25/applied-intuition-to-buy-autonomous-trucking-spac-embark-for-71m/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2017/07/nevada-1-8.jpg?resize=1200,801",
+            "publishedAt": "2023-05-25T21:24:14Z",
+            "content": "Embark Trucks, the autonomous trucking company that recently cut 70% of its workforce, is being acquired by Applied Intuition, a simulation and software provider for autonomous vehicle development. T… [+2833 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kirsten Korosec",
+            "title": "Electric truck maker Nikola at risk of being delisted from Nasdaq",
+            "description": "Nikola, the beleaguered electric truck developer, is at risk of being delisted from Nasdaq, the company disclosed in a regulatory filing.",
+            "url": "https://techcrunch.com/2023/05/25/electric-truck-maker-nikola-at-risk-of-being-delisted-from-nasdaq/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/02/NIKOLA_TRE_BEV-5.jpg?resize=1200,675",
+            "publishedAt": "2023-05-25T20:24:44Z",
+            "content": "Nikola, the beleaguered electric truck developer, is at risk of being delisted from Nasdaq, the company disclosed Thursday in a regulatory filing.\r\nNikola said it received May 24 a delisting notice f… [+1470 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Aria Alamalhodaei",
+            "title": "Following successful mission, Virgin Galactic targeting June for first commercial spaceflight",
+            "description": "Following a successful flight on Thursday, space tourism company Virgin Galactic says it is ready to enter commercial service in June.",
+            "url": "https://techcrunch.com/2023/05/25/following-successful-mission-virgin-galactic-targeting-june-for-first-commercial-spaceflight/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/vss-unity-25.jpeg?resize=1200,675",
+            "publishedAt": "2023-05-25T20:17:21Z",
+            "content": "Following a successful flight to the edge of space on Thursday, space tourism company Virgin Galactic says it is ready to enter commercial service in June.\r\nVirgin Galactics aircraft, VMS Eve, depart… [+2558 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kyle Wiggers",
+            "title": "When new grant program, OpenAI aims to crowdsources AI regulation",
+            "description": "OpenAI plans to award individuals, teams and organizations grants for developing a process to answer tough questions around AI regulation.",
+            "url": "https://techcrunch.com/2023/05/25/when-new-grant-program-openai-aims-to-crowdsources-ai-regulation/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/10/Sam-Altman-OpenAI-DSC02897.jpg?resize=1200,800",
+            "publishedAt": "2023-05-25T19:34:03Z",
+            "content": "OpenAI says it’s launching a program to award ten $100,000 grants to fund experiments in setting up a democratic process for deciding what rules AI systems should follow — “within the bounds defined … [+2735 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ivan Mehta",
+            "title": "Twitter introduces a new $5,000 per month API tier",
+            "description": "Twitter announced a new API tier today called Twitter API Pro for startups that costs $5,000 per month.",
+            "url": "https://techcrunch.com/2023/05/25/twitter-introduces-a-new-5000-per-month-api-tier/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/04/twitter-settings.jpg?resize=1200,645",
+            "publishedAt": "2023-05-25T18:35:38Z",
+            "content": "Twitter announced a new API tier today called Twitter API Pro for startups that costs $5,000 per month. The tier gives developers the ability to fetch 1 million tweets per month, post 300,000 tweets … [+1917 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Brian Heater",
+            "title": "Motor City mechatronics",
+            "description": "Motor City mechatronics. Actuator: Three days at Automate, a conversation with Melonee Wise and more humanoid talk.",
+            "url": "https://techcrunch.com/2023/05/25/motor-city-mechatronics/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/20230522_082412-1.jpg?resize=1200,900",
+            "publishedAt": "2023-05-25T17:49:58Z",
+            "content": "A number of native Detroiters have asked me what I think about their city so far. The simple answer is that I dont feel qualified to offer much insight yet. Ive been here for roughly three days as I … [+29838 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kate Park",
+            "title": "Profitability over growth: 5 investors explain their mantra for South Korean startups",
+            "description": "Five investors talk about the uniqueness of South Korean startups, how they've fared in a post-pandemic world and their investment thesis.",
+            "url": "https://techcrunch.com/2023/05/25/south-korea-investor-survey/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/south-korea-money-growth.jpg?resize=1200,675",
+            "publishedAt": "2023-05-25T17:36:03Z",
+            "content": "South Koreas economic model has for decades leaned on export-led manufacturing operated by family-owned corporate giants. A 2015 report from McKinsey outlined how the country would need small compani… [+5140 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Jacquelyn Melinek",
+            "title": "Sam Altman’s crypto project Worldcoin got more coin in latest $115M raise",
+            "description": "Tools for Humanity, a crypto-focused project co-founded by OpenAI CEO Sam Altman, raised $115 million to build out its Worldcoin.",
+            "url": "https://techcrunch.com/2023/05/25/sam-altmans-crypto-project-worldcoin-got-more-coin-in-latest-115m-raise/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/10/TheOrb.jpg?resize=1200,857",
+            "publishedAt": "2023-05-25T16:41:27Z",
+            "content": "Follow me on Twitter @Jacqmelinek for breaking crypto news, memes and more.\r\nWelcome back to Chain Reaction.\r\nGot coin? No? Well, Worldcoin did.\r\nTools for Humanity, the team building Worldcoin, rais… [+6188 chars]"
+        }
+    ]
+}
